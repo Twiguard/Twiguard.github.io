@@ -2,51 +2,51 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title></title>
-    <link>http://twiguard.github.io/</link>
+    <link>http://mudrlab.ml/</link>
     <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>cs-cz</language>
     <lastBuildDate>Tue, 01 Dec 2015 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://twiguard.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://mudrlab.ml/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Malý princ a liška</title>
-      <link>http://twiguard.github.io/princ/</link>
+      <link>http://mudrlab.ml/princ/</link>
       <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://twiguard.github.io/princ/</guid>
+      <guid>http://mudrlab.ml/princ/</guid>
       <description>&lt;p&gt;Audiotéka na své facebookové stránce vyhlásila soutěž, která spočívala ve vymyšlení jednoduchého dialogu mezi malým princem a liškou. Bohužel je možné zúčastnit se jen s jednou odpovědí, a navíc mi formulář ani nefunguje, tak jsem se rozhodl publikovat své výmysly zde.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://twiguard.github.io/img/princ/princ1.png&#34; alt=&#34;Cywe, mame ztejnou vohákňu. -- Ztenje stebou neka.1&#34; title=&#34;Cywe, mame ztejnou vohákňu. -- Ztenje stebou neka.2&#34; /&gt;
+&lt;p&gt;&lt;img src=&#34;http://mudrlab.ml/img/princ/princ1.png&#34; alt=&#34;Cywe, mame ztejnou vohákňu. -- Ztenje stebou neka.1&#34; title=&#34;Cywe, mame ztejnou vohákňu. -- Ztenje stebou neka.2&#34; /&gt;
 &lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://twiguard.github.io/img/princ/princ2.png&#34; alt=&#34;Kdo jsi? Jsi moc hezká. -- Ne, tyjo, jsem teď hrozně přibrala.1&#34; title=&#34;Kdo jsi? Jsi moc hezká. -- Ne, tyjo, jsem teď hrozně přibrala.2&#34; /&gt;
+&lt;p&gt;&lt;img src=&#34;http://mudrlab.ml/img/princ/princ2.png&#34; alt=&#34;Kdo jsi? Jsi moc hezká. -- Ne, tyjo, jsem teď hrozně přibrala.1&#34; title=&#34;Kdo jsi? Jsi moc hezká. -- Ne, tyjo, jsem teď hrozně přibrala.2&#34; /&gt;
 &lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://twiguard.github.io/img/princ/princ3.png&#34; alt=&#34;Hledám lidi. -- Máš štěstí, že jdu právě okolo.1&#34; title=&#34;Hledám lidi. -- Máš štěstí, že jdu právě okolo.2&#34; /&gt;
+&lt;p&gt;&lt;img src=&#34;http://mudrlab.ml/img/princ/princ3.png&#34; alt=&#34;Hledám lidi. -- Máš štěstí, že jdu právě okolo.1&#34; title=&#34;Hledám lidi. -- Máš štěstí, že jdu právě okolo.2&#34; /&gt;
 &lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://twiguard.github.io/img/princ/princ4.png&#34; alt=&#34;Zdědil jsem továrnu na granule, píšu básně, nekouřím, nepiju a denně chodím do posilovny. -- Prosím, ochoč si mne!1&#34; title=&#34;Zdědil jsem továrnu na granule, píšu básně, nekouřím, nepiju a denně chodím do posilovny. -- Prosím, ochoč si mne!2&#34; /&gt;
+&lt;p&gt;&lt;img src=&#34;http://mudrlab.ml/img/princ/princ4.png&#34; alt=&#34;Zdědil jsem továrnu na granule, píšu básně, nekouřím, nepiju a denně chodím do posilovny. -- Prosím, ochoč si mne!1&#34; title=&#34;Zdědil jsem továrnu na granule, píšu básně, nekouřím, nepiju a denně chodím do posilovny. -- Prosím, ochoč si mne!2&#34; /&gt;
 &lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://twiguard.github.io/img/princ/princ5.png&#34; alt=&#34;Kam zmizely klíče od mého auta? -- Co je důležité, to oči nevidí.1&#34; title=&#34;Kam zmizely klíče od mého auta? -- Co je důležité, to oči nevidí.2&#34; /&gt;
+&lt;p&gt;&lt;img src=&#34;http://mudrlab.ml/img/princ/princ5.png&#34; alt=&#34;Kam zmizely klíče od mého auta? -- Co je důležité, to oči nevidí.1&#34; title=&#34;Kam zmizely klíče od mého auta? -- Co je důležité, to oči nevidí.2&#34; /&gt;
 &lt;/p&gt;
 
 &lt;p&gt;Kdybyste vymysleli nějaké vlastní, pošlete mi je (twiguard na Gmailu) a já je rád přidám. =)&lt;/p&gt;
 
 &lt;p&gt;Tady máte prázdnou šablonu.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://twiguard.github.io/img/princ/maly_princ.png&#34; alt=&#34;Maly princ - sablona&#34; /&gt;
+&lt;p&gt;&lt;img src=&#34;http://mudrlab.ml/img/princ/maly_princ.png&#34; alt=&#34;Maly princ - sablona&#34; /&gt;
 &lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Houbo-můší války</title>
-      <link>http://twiguard.github.io/valky/</link>
+      <link>http://mudrlab.ml/valky/</link>
       <pubDate>Sun, 08 Nov 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://twiguard.github.io/valky/</guid>
+      <guid>http://mudrlab.ml/valky/</guid>
       <description>
 
 &lt;h3 id=&#34;muchomor:5c7d511e5185254d60f68d90b2ab215a&#34;&gt;Muchomor&lt;/h3&gt;
@@ -267,18 +267,6 @@ Zatraceně! &amp;ldquo;A&amp;nbsp;nějaké lži na mě moc nezkoušej. Ministr d
 &lt;blockquote&gt;
 &lt;p&gt;Pak jsem si ale uvědomil, že už jsem o&amp;nbsp;něm slyšel. &lt;strong&gt;Ryzák&lt;/strong&gt; jsme mu u&amp;nbsp;nás říkali. Přišel z&amp;nbsp;Království, když ho už nebavilo se pořád řídit rozkazy. Dva úplňky u&amp;nbsp;nás ve vesnici dělal můchobijce, ale pak vyrazil dál na jih, zřejmě hledat si nevěstu.&lt;/p&gt;
 &lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Example Article</title>
-      <link>http://twiguard.github.io/example-article/</link>
-      <pubDate>Tue, 03 Nov 2015 00:00:00 +0000</pubDate>
-      
-      <guid>http://twiguard.github.io/example-article/</guid>
-      <description>&lt;p&gt;But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness. No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know how to pursue pleasure rationally encounter consequences that are extremely painful. Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure. To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it? But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure?&lt;/p&gt;
-
-&lt;p&gt;On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so blinded by desire, that they cannot foresee the pain and trouble that are bound to ensue; and equal blame belongs to those who fail in their duty through weakness of will, which is the same as saying through shrinking from toil and pain. These cases are perfectly simple and easy to distinguish. In a free hour, when our power of choice is untrammelled and when nothing prevents our being able to do what we like best, every pleasure is to be welcomed and every pain avoided. But in certain circumstances and owing to the claims of duty or the obligations of business it will frequently occur that pleasures have to be repudiated and annoyances accepted. The wise man therefore always holds in these matters to this principle of selection: he rejects pleasures to secure other greater pleasures, or else he endures pains to avoid worse pains.&lt;/p&gt;
 </description>
     </item>
     

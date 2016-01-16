@@ -2,24 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://twiguard.github.io/</loc>
+    <loc>http://mudrlab.ml/</loc>
     <lastmod>2015-12-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://twiguard.github.io/princ/</loc>
+    <loc>http://mudrlab.ml/princ/</loc>
     <lastmod>2015-12-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://twiguard.github.io/valky/</loc>
+    <loc>http://mudrlab.ml/valky/</loc>
     <lastmod>2015-11-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://twiguard.github.io/example-article/</loc>
-    <lastmod>2015-11-03T00:00:00+00:00</lastmod>
   </url>
   
 </urlset>
