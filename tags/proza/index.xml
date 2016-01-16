@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Próza on </title>
-    <link>http://mudrlab.ml/tags/pr%C3%B3za/</link>
-    <description>Recent content in Próza on </description>
+    <title>Proza on </title>
+    <link>http://mudrlab.ml/tags/proza/</link>
+    <description>Recent content in Proza on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>cs-cz</language>
     <lastBuildDate>Sun, 28 Jun 2015 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://mudrlab.ml/tags/pr%C3%B3za/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://mudrlab.ml/tags/proza/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Uhádni vlastnost a věk</title>
