@@ -3,8 +3,13 @@
   
   <url>
     <loc>http://mudrlab.ml/</loc>
-    <lastmod>2015-12-01T00:00:00+00:00</lastmod>
+    <lastmod>2015-12-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://mudrlab.ml/prace/</loc>
+    <lastmod>2015-12-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -13,8 +18,18 @@
   </url>
   
   <url>
+    <loc>http://mudrlab.ml/uvod/</loc>
+    <lastmod>2015-11-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://mudrlab.ml/charakter/</loc>
+    <lastmod>2015-06-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://mudrlab.ml/valky/</loc>
-    <lastmod>2015-11-08T00:00:00+00:00</lastmod>
+    <lastmod>2015-05-28T00:00:00+00:00</lastmod>
   </url>
   
 </urlset>

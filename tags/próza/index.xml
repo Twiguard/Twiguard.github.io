@@ -1,73 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title></title>
-    <link>http://mudrlab.ml/</link>
-    <description>Recent content on </description>
+    <title>Próza on </title>
+    <link>http://mudrlab.ml/tags/pr%C3%B3za/</link>
+    <description>Recent content in Próza on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>cs-cz</language>
-    <lastBuildDate>Thu, 10 Dec 2015 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://mudrlab.ml/index.xml" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>Práce nebo zábava</title>
-      <link>http://mudrlab.ml/prace/</link>
-      <pubDate>Thu, 10 Dec 2015 00:00:00 +0000</pubDate>
-      
-      <guid>http://mudrlab.ml/prace/</guid>
-      <description>&lt;p&gt;Často se setkávám u některých lidí s názorem, že práce ve službách je peklo. Důvodem samozřejmě nebývá nikdo jiný, než lidé. Nejsou to ale jen tak obyčejní lidé, jsou to zákazníci, zákazníci, před kterými člověk nemůže utéct, schovat se, odvolat schůzku nebo je prostě ignorovat. Bez nich by totiž rychle přišel na buben. Jenže čím dál tím častěji také objevuju jiné lidi, které práce baví a užívají si každého, kdo s nimi prohodí pár slov.&lt;/p&gt;
-
-&lt;p&gt;Nikdy jsem se tím moc nezabýval. Prostě jsem si říkal, že někam chodí méně snesitelní lidé a onam zase samí sympaťáci. Když jsem se ale před nějakým časem sám dostal za pult, zjistil jsem, že to tak úplně není. Začal jsem si více všímat komunikace mezi poskytovatelem služby a zákazníkem. Začal jsem si podle toho vybírat podniky, kde komunikace fungovala lépe. Časem jsem se dostal do stádia, kdy jsem prakticky odmítal chodit do zařízení, kde by nebyla možná aspoň omezené forma rozhovoru s personálem.&lt;/p&gt;
-
-&lt;p&gt;Uvědomil jsem si, že takovým přístupem nejen člověk láká a udržuje si zákazníky, ale zároveň vytváří komunitu. Vytváří si kolem sebe, ve své práci, komunitu lidí, se kterými se dobře povídá a se kterými si rozumí, jelikož na vzájemném porozumění při každém kontaktu pracují. Samozřejmě, jsou i pozice, kde je potřeba nesktečného úsilí, aby člověk přitáhl ty správné lidi, a kde je takřka nemožné si je udržet - pohřební služba, pokrývačství, atd.&lt;/p&gt;
-
-&lt;p&gt;Nedávno jsem se ale třeba objevil v jednom hotelu, kde jsem rok před tím strávil necelé tři dny. Jaké bylo překvapení, když si na mě tamější barmanka vzpomněla a naše komunikace se hned posunula o level dál. Ze skupiny neznámých otravů se z nás najednou stala skupina, kde je i někdo známý, s kým se dá mluvit. Vzájemná důvěra roste. Oba si zároveň vůči druhé straně můžeme víc projevovat svoji osobnost, zároveň si ale nedovolíme jakýkoliv podraz. Konkurenční prostředí (já chci víc) se mění na kooperační (pracujme na společném blahobytu).&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Malý princ a liška</title>
-      <link>http://mudrlab.ml/princ/</link>
-      <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
-      
-      <guid>http://mudrlab.ml/princ/</guid>
-      <description>&lt;p&gt;Audiotéka na své facebookové stránce vyhlásila soutěž, která spočívala ve vymyšlení jednoduchého dialogu mezi malým princem a liškou. Bohužel je možné zúčastnit se jen s jednou odpovědí, a navíc mi formulář ani nefunguje, tak jsem se rozhodl publikovat své výmysly zde.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://mudrlab.ml/img/princ/princ1.png&#34; alt=&#34;Cywe, mame ztejnou vohákňu. -- Ztenje stebou neka.&#34; title=&#34;Cywe, mame ztejnou vohákňu. -- Ztenje stebou neka.&#34; /&gt;
-&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://mudrlab.ml/img/princ/princ2.png&#34; alt=&#34;Kdo jsi? Jsi moc hezká. -- Ne, tyjo, jsem teď hrozně přibrala.&#34; title=&#34;Kdo jsi? Jsi moc hezká. -- Ne, tyjo, jsem teď hrozně přibrala.&#34; /&gt;
-&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://mudrlab.ml/img/princ/princ3.png&#34; alt=&#34;Hledám lidi. -- Máš štěstí, že jdu právě okolo.&#34; title=&#34;Hledám lidi. -- Máš štěstí, že jdu právě okolo&#34; /&gt;
-&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://mudrlab.ml/img/princ/princ4.png&#34; alt=&#34;Zdědil jsem továrnu na granule, píšu básně, nekouřím, nepiju a denně chodím do posilovny. -- Prosím, ochoč si mne!1&#34; title=&#34;Zdědil jsem továrnu na granule, píšu básně, nekouřím, nepiju a denně chodím do posilovny. -- Prosím, ochoč si mne!&#34; /&gt;
-&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://mudrlab.ml/img/princ/princ5.png&#34; alt=&#34;Kam zmizely klíče od mého auta? -- Co je důležité, to oči nevidí.&#34; title=&#34;Kam zmizely klíče od mého auta? -- Co je důležité, to oči nevidí.&#34; /&gt;
-&lt;/p&gt;
-
-&lt;p&gt;Kdybyste vymysleli nějaké vlastní, pošlete mi je (twiguard na Gmailu) a já je rád přidám. =)&lt;/p&gt;
-
-&lt;p&gt;Tady máte prázdnou šablonu.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://mudrlab.ml/img/princ/maly_princ.png&#34; alt=&#34;Malý princ - šablona&#34; /&gt;
-&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Úvodní článek</title>
-      <link>http://mudrlab.ml/uvod/</link>
-      <pubDate>Tue, 03 Nov 2015 00:00:00 +0000</pubDate>
-      
-      <guid>http://mudrlab.ml/uvod/</guid>
-      <description>&lt;p&gt;Tak je to tu. Znovu jsem dospěl do takového stádia samolibosti, že jsem přesvědčený, že svojí neaktivitou prostě musím ochuzovat lidstvo o svého génia. Jak jsem už naznačil, není to můj první pokus o blog. Už jsem měl blog na pocity, blog na básničky, blog na linuxové distribuce. Všechny byly tak krásně přesně definované, až mě rozčilovaly svou omezeností, načež mě přestaly bavit a zanechal jsem je někde rozkutálené po internetech.&lt;/p&gt;
-
-&lt;p&gt;Tentokrát jsem se rozhodl to udělat jinak. Budu sem zkrátka psát všechno, o čem si budu myslet, že by někoho mohlo zajímat. Najdete tu jak moji tvorbu, tak mé psychologicko-sociologické postřehy, technologický koutek, projekty, na kterých jsem pracoval nebo pracovat budu a třeba i tipy na zajímavá místa po republice i mimo ni. Ale těžko říct, kam se to nakonec zvrhne &amp;hellip; webkomix? UX poradna? další zapomenutý kout internetu?&lt;/p&gt;
-</description>
-    </item>
+    <lastBuildDate>Sun, 28 Jun 2015 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://mudrlab.ml/tags/pr%C3%B3za/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Uhádni vlastnost a věk</title>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Meta on </title>
+    <link>http://mudrlab.ml/tags/meta/</link>
+    <description>Recent content in Meta on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>cs-cz</language>
+    <lastBuildDate>Tue, 03 Nov 2015 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://mudrlab.ml/tags/meta/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Úvodní článek</title>
+      <link>http://mudrlab.ml/uvod/</link>
+      <pubDate>Tue, 03 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://mudrlab.ml/uvod/</guid>
+      <description>&lt;p&gt;Tak je to tu. Znovu jsem dospěl do takového stádia samolibosti, že jsem přesvědčený, že svojí neaktivitou prostě musím ochuzovat lidstvo o svého génia. Jak jsem už naznačil, není to můj první pokus o blog. Už jsem měl blog na pocity, blog na básničky, blog na linuxové distribuce. Všechny byly tak krásně přesně definované, až mě rozčilovaly svou omezeností, načež mě přestaly bavit a zanechal jsem je někde rozkutálené po internetech.&lt;/p&gt;
+
+&lt;p&gt;Tentokrát jsem se rozhodl to udělat jinak. Budu sem zkrátka psát všechno, o čem si budu myslet, že by někoho mohlo zajímat. Najdete tu jak moji tvorbu, tak mé psychologicko-sociologické postřehy, technologický koutek, projekty, na kterých jsem pracoval nebo pracovat budu a třeba i tipy na zajímavá místa po republice i mimo ni. Ale těžko říct, kam se to nakonec zvrhne &amp;hellip; webkomix? UX poradna? další zapomenutý kout internetu?&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
